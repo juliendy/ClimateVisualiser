@@ -7,9 +7,13 @@ URL: Comin soon
 
 ## preview
 - Coming soon
-### finished
-
 ### in progress
+- [ ] start an attempt on PWA
+- [ ] import data on changes in weather, rain, snowfall etc.
+- [ ] input should be keyboard sensitive: autosearch locations by keydown/up
+- [ ] location placeholders
+- [ ] scrape data from 1960 >
+### finished
 
 ## setup project
 
