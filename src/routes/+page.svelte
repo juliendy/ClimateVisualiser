@@ -2,12 +2,11 @@
 	import LocationFinder from '$lib/LocationFinder.svelte';
 	import Footer from '$lib/Footer.svelte';
 	import getHistoricalWeatherData from '$lib/weatherData';
-	import WeatherVisualizer from '$lib/WeatherVisualizer.svelte';
 </script>
 
 <div>
 	<div class="text-center mb-8">
-		<h1 class="text-3xl leading-relaxed">Visualize climate change ></h1>
+		<h1 class="text-3xl leading-relaxed">Visualize climate change</h1>
 	</div>
 	<div>
 		<p>
