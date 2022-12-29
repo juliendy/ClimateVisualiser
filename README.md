@@ -6,7 +6,7 @@ how the climate is changing in the place where they live. This hopefully brings 
 URL: Coming soon
 
 ## preview
-- Coming soon
+![ClimaVisu](https://media.giphy.com/media/NruBehLS74hrw0PRZ1/giphy-downsized-large.gif)
 ### todos
 - [ ] optimize performance for older iPhones (6/7)
 - [ ] scrape data longer in the past (?)
