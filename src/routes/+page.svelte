@@ -6,7 +6,7 @@
 
 <div>
 	<div class="text-center mb-8">
-		<h1 class="text-3xl leading-relaxed">Visualize climate change</h1>
+		<h1 class="text-3xl leading-relaxed">Visualise climate change</h1>
 	</div>
 	<div>
 		<p>
