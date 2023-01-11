@@ -1,4 +1,3 @@
-
 export default async function getLocationsByString(name: string) {
     const apiCall = 'https://geocoding-api.open-meteo.com/v1/search?name=' + name;
 
