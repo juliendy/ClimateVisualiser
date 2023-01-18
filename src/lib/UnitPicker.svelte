@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let unit: string = 'metric'
-	let isChecked = (unit == 'metric' ? false : true) // initialize to value passed on by parent
+	let isChecked = (unit == 'metric' ? false : true) // initialise to value passed on by parent
 	$: {
 		unit = isChecked ? 'imperial' : 'metric'
 	}
