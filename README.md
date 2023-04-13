@@ -3,11 +3,11 @@
 This is a small side project. In the app, users can see how average summer and winter temperatures have evolved over the past 60 years to get a feeling for
 how the climate is changing in the place where they live. This hopefully brings the urgency of fighting climate change to the minds of more people.
 
-URL: Coming soon
-
 ## preview
 ![ClimaVisu](https://media.giphy.com/media/NruBehLS74hrw0PRZ1/giphy-downsized-large.gif)
 ### todos
+- [ ] change data from 1960 > 1950
+- [ ] make grid approximate more accurately, 30km to 11km grid model
 - [ ] optimize performance for older iPhones (6/7)
 - [ ] scrape data longer in the past (?)
 - [ ] higher regression precision, optical changes (?)
