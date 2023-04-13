@@ -6,8 +6,6 @@ how the climate is changing in the place where they live. This hopefully brings 
 ## preview
 ![ClimaVisu](https://media.giphy.com/media/NruBehLS74hrw0PRZ1/giphy-downsized-large.gif)
 ### todos
-- [ ] change data from 1960 > 1950
-- [ ] make grid approximate more accurately, 30km to 11km grid model
 - [ ] optimize performance for older iPhones (6/7)
 - [ ] scrape data longer in the past (?)
 - [ ] higher regression precision, optical changes (?)
@@ -17,6 +15,8 @@ how the climate is changing in the place where they live. This hopefully brings 
 - [x] input should be keyboard sensitive: autosearch locations by keydown/up
 - [x] location placeholders
 - [x] scrape data from 1960 >
+- [x] change data from 1960 > 1950
+- [x] make grid approximate more accurately, 30km to 11km grid model
 
 ## setup project
 
