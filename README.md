@@ -6,9 +6,10 @@ how the climate is changing in the place where they live. This hopefully brings 
 ## preview
 ![ClimaVisu](https://media.giphy.com/media/NruBehLS74hrw0PRZ1/giphy-downsized-large.gif)
 ### todos
-- [ ] optimize performance for older iPhones (6/7)
-- [ ] scrape data longer in the past (?)
+- [ ] improvements to current state: legibility, generalisations, unused dependencies.
+- [ ] forecasts? year 2050 >
 - [ ] higher regression precision, optical changes (?)
+- [ ] ability to choose climate models (models differ in their assumptions and therefore yield different outcomes)
 ### finished
 - [x] start an attempt on PWA
 - [x] import data on changes in weather, rain, snowfall etc.
