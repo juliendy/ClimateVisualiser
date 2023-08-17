@@ -7,7 +7,7 @@ how the climate is changing in the place where they live. This hopefully brings 
 ![ClimaVisu](https://media.giphy.com/media/NruBehLS74hrw0PRZ1/giphy-downsized-large.gif)
 ### todos
 - [ ] improvements to current state: legibility, generalisations, unused dependencies.
-- [ ] forecasts? year 2050 >
+- [ ] forecasts? year 2050 projections according to different climate models
 - [ ] higher regression precision, optical changes (?)
 - [ ] ability to choose climate models (models differ in their assumptions and therefore yield different outcomes)
 ### finished
